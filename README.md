@@ -1,5 +1,5 @@
 # GS-Edge
-Claro, aqui está o README em formato Markdown:
+
 
 ---
 
